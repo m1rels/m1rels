@@ -14,8 +14,8 @@ Ever since I laid eyes on my first line of code, I've been hooked. My journey be
 
 ## Hobbies and Interests
 
-⚽ Football Fanatic: When I'm not writing code, you'll find me on the football field, enjoying every kick, pass, and goal. The camaraderie and teamwork of the sport resonate with me. I'm a devoted football spectator too. Watching the beautiful game unfold on screen is a pastime I hold dear.
-🎉 Friends and Celebrations: I believe in the value of relationships and making memories. Hanging out with friends and partying together are activities that light up my world.
+- **⚽ Football Fanatic**: When I'm not writing code, you'll find me on the football field, enjoying every kick, pass, and goal. The camaraderie and teamwork of the sport resonate with me. I'm a devoted football spectator too. Watching the beautiful game unfold on screen is a pastime I hold dear.
+- **🎉 Friends and Celebrations**: I believe in the value of relationships and making memories. Hanging out with friends and partying together are activities that light up my world.
 
 ## Let's Connect
 
