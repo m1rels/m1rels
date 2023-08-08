@@ -8,9 +8,9 @@ Ever since I laid eyes on my first line of code, I've been hooked. My journey be
 
 ## What I Do
 
-Language of the Web: My journey with coding started with the magic of HTML, CSS, and JavaScript. I build web experiences that not only look great but function seamlessly. From stunning visual layouts to smooth interactions, I love creating websites and games that leave an impression.
-Advanced React Solutions: My GitHub repositories feature a range of React projects, showcasing my ability to tackle intricate challenges and develop feature-rich web applications.
-Elevated Mobile Development: While I'm still in the early stages, I'm already feeling right at home in this framework. I've not only participated in projects but also started creating my own solutions and mobile applications.
+- **Language of the Web**: My journey with coding started with the magic of HTML, CSS, and JavaScript. I build web experiences that not only look great but function seamlessly. From stunning visual layouts to smooth interactions, I love creating websites and games that leave an impression.
+- **Advanced React Solutions**: My GitHub repositories feature a range of React projects, showcasing my ability to tackle intricate challenges and develop feature-rich web applications.
+- **Elevated Mobile Development**: While I'm still in the early stages, I'm already feeling right at home in this framework. I've not only participated in projects but also started creating my own solutions and mobile applications.
 
 ## Hobbies and Interests
 
