@@ -1,6 +1,6 @@
 Hello, world! 👋,
 
-I'am Mirel Korajac, a dedicated and ambitious 17-year-old programmer who is deeply immersed in the art of coding and software development.
+I'am Mirel Korajac, a dedicated and ambitious 18-year-old programmer who is deeply immersed in the art of coding and software development.
 
 ## About Me
 
