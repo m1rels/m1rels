@@ -1,21 +1,16 @@
 Hello, world! 👋,
 
-I'am Mirel Korajac, a dedicated and ambitious 18-year-old programmer who is deeply immersed in the art of coding and software development.
+I'm Mirel Korajac, a dedicated and ambitious 20-year-old programmer and Computer Science student at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU). I am deeply immersed in the art of coding and software development.
 
 ## About Me
 
-Ever since I laid eyes on my first line of code, I've been hooked. My journey began with the trio of HTML, CSS, and JavaScript, and I've been crafting captivating websites and games ever since. I believe in the power of the web to connect, inspire, and empower, and I'm on a mission to make my mark in this digital realm. Furthermore, I developed a passion for React and React Native framework and coded several web-app and mobile applications .
+Ever since I laid eyes on my first line of code, I've been hooked. My journey began with the trio of HTML, CSS, and JavaScript, and I've been crafting captivating websites and games ever since. Currently pursuing my degree in Computer Science, I bridge the gap between academic foundations and modern software engineering. While my passion lies in the React and React Native ecosystems, my university track has heavily expanded my backend and systems programming capabilities.
 
 ## What I Do
 
-- **Language of the Web**: My journey with coding started with the magic of HTML, CSS, and JavaScript. I build web experiences that not only look great but function seamlessly. From stunning visual layouts to smooth interactions, I love creating websites and games that leave an impression.
-- **Advanced React Solutions**: My GitHub repositories feature a range of React projects, showcasing my ability to tackle intricate challenges and develop feature-rich web applications.
-- **Elevated Mobile Development**: While I'm still in the early stages, I'm already feeling right at home in this framework. I've not only participated in projects but also started creating my own solutions and mobile applications.
-
-## Hobbies and Interests
-
-- **⚽ Football Fanatic**: When I'm not writing code, you'll find me on the football field, enjoying every kick, pass, and goal. The camaraderie and teamwork of the sport resonate with me. I'm a devoted football spectator too. Watching the beautiful game unfold on screen is a pastime I hold dear.
-- **🎉 Friends and Celebrations**: I believe in the value of relationships and making memories. Hanging out with friends and partying together are activities that light up my world.
+- **Advanced Web & Mobile Solutions**: Leveraging JavaScript, TypeScript, React, and React Native to tackle intricate challenges and develop feature-rich, highly responsive applications across both web and mobile platforms.
+- **Academic & Internal Projects**: During my time at FAU, I have actively contributed to various internal university projects, gaining solid, hands-on experience in **Python** and **Java**, as well as working with databases via **SQL** and low-level systems programming in **C**.
+- **Continuous Learning**: Combining practical full-stack development with the rigorous theoretical foundations of Computer Science to build efficient, optimized, and secure software.
 
 ## Let's Connect
 
